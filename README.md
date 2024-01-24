@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aisen Kim</h1>
 <h3 align="center">Passionate about developing apps to help others</h3>
 
-- 🔭 I’m currently working on [Academy App (Backend)](https://github.com/aisenkim/academy-refactor)
-and  [Academy App (Frontend)](https://github.com/aisenkim/academy-frontend)
+- 🔭 I’m currently working on [melongo](https://github.com/akimdev15/melongo)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Kafka Streams**
 
-- 🤙 How to reach me **aisenkim15@gmail.com**
+- 🤙 How to reach me **akimdev15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
